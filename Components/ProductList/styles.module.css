@@ -1,0 +1,17 @@
+.carousel {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    
+}
+
+.productList {
+    display: flex;
+    overflow-y: auto;
+    white-space: nowrap; 
+    width: fit-content;
+    flex-wrap: wrap;
+    align-items: left;
+    justify-content: center;
+}
+  
